@@ -1,4 +1,7 @@
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV
+### NAME: EZHIL NEVEDHA K
+### REG NO: 21223230055
+### DEPARTMENT OF ARTIFICIAL INTELLIGENCE AND DATA SCIENCE 
 ## Overview
 
 This experiment demonstrates basic image handling and pixel-level transformations using OpenCV in Python. It focuses on loading images, displaying them, and performing drawing operations and simple transformations.
